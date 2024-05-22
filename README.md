@@ -16,3 +16,4 @@ Database : Mysql.
 Description : 
 As a common person will be able to allocate the task using this To-Do list application. In the application they will also able to assign the task as high priority.
 Here the tasks are stored in the localstorage.
+Tech stack I used : Html, Css and React.
