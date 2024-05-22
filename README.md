@@ -1,7 +1,7 @@
 # Hi there, I'm Manoj M! 👋
 
 ## About Me
-I'm a passionate developer with experience in various technologies such as React, java, sprigboot, mysql
+I'm a passionate developer with experience in various technologies such as React, java, sprigboot, mysql, Basics of Python, C and C++.
 
 ## Projects
 - [Ecommerce website](https://github.com/Manoj-146/React-website)
