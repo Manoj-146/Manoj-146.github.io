@@ -12,7 +12,7 @@ Tech stack I used in Frontend: Html, Css, React.
 Tech stack I used in Backend: Java, Springboot
 Database : Mysql.
     
-- [To-Dolist application](https://github.com/Manoj-146/To-Do-List-application.github.io):
+- [To-Dolist application](https://github.com/Manoj-146/To-Do-List-aplication):
 Description : 
 As a common person will be able to allocate the task using this To-Do list application. In the application they will also able to assign the task as high priority.
 Here the tasks are stored in the localstorage.
